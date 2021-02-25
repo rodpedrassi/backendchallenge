@@ -4,10 +4,8 @@ Esse é um desafio para o cargo de desenvolvedor web na Brasilfone feito pelo ca
 
 Programas utilizados:
 
-XAMPP: é utilizado para termos servidor local Apache e MySQL. Apache sendo o interpretador php pro browser e o MySQL o banco de dados, onde salvamos e realizamos consulta de dados
-
-Página de download: https://www.apachefriends.org/pt_br/index.html
-
+XAMPP: é utilizado para termos servidor local Apache e MySQL. Apache sendo o interpretador php pro browser e o MySQL o banco de dados, onde salvamos e realizamos consulta de dados</ br>
+Página de download: https://www.apachefriends.org/pt_br/index.html </ br>
 Observações de Instalação do XAMPP: ao chegar na tela de "Select Components" marcar pelo menos as opções Apache, MySQL e PHP
 Notas de utilização: Ao abrir o programa, em action, você deve achar os botões de Start, tanto o Apache quanto o MySQL devem ser iniciados clicando no botão Start. A pasta do projeto deve estar no local de instação do XAMPP na pasta htdocs, exemplo: C:\xampp\htdocs
 
