@@ -1,4 +1,4 @@
-# devwebchallenge_rodrigo
+# backendchallenge
 
 Esse é um desafio para o cargo de desenvolvedor web na Brasilfone feito pelo candidato Rodrigo. Consiste em fazer uma tela de login e cadastro de usuário.
 
