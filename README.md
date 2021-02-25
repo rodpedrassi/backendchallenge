@@ -15,7 +15,7 @@ MySQL Worckbench: é uma ferramenta visual que nos permite modelar nossa base de
 
 Página de download: https://dev.mysql.com/downloads/workbench/
 
-Notas de utilização: Antes de tudo, na página Home localize o botão de adicionar conexão que está do lado do MySQL Connection em seguida dê um nome para essa conexão e clique em ok
+Notas de utilização: Antes de tudo, na página Home localize o botão de adicionar conexão que está do lado do MySQL Connection em seguida dê um nome para essa conexão e clique em ok. Execute os comandos do script do banco um a um
 
 Visual Studio Code: um poderoso editor de texto que nos auxília na síntese do php
 
