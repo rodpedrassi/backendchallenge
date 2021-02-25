@@ -1,0 +1,8 @@
+    1  git init
+    2  git remote add origin https://github.com/rodpedrassi/backendchallenge.git
+    3  git add .
+    4  git status
+    5  git commit -m "primeiro commit"
+    6  git push origin master
+    7  history
+    8  history > historicogit
